@@ -1,5 +1,4 @@
-### Hi, I'm Cam Remesz. Welcome to my Github.
-
+### Welcome to my Github.
 #### Snoop around and check out my personal projects or take a look at my contribution stats...whatever gets you where you need to go :wink:
 
 <h3 align="center">I'm a Front-End Angular Developer with a keen eye for UI/UX design</h3>
