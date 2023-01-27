@@ -2,7 +2,7 @@
 
 #### Snoop around and check out my personal projects or take a look at my contribution stats...whatever gets you where you need to go :wink:
 
-<p align="center">**I'm a Front-End Angular Developer with a keen eye for UI/UX design**</p>
+<h5 align="center">I'm a Front-End Angular Developer with a keen eye for UI/UX design</h5>
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=angular,ts" />
