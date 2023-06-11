@@ -15,10 +15,10 @@
 **Twitter** [@lowkeycoding](https://twitter.com/lowkeycoding)<br/>
 
 <a href="https://github.com/lowkeycode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lowkeycode&hide=stars&show_icons=true&theme=holi&show_icons=true&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lowkeycode&hide=stars,contribs&show_icons=true&theme=holi&show_icons=true&rank_icon=github&ring_color#00000000" />
 </a>
 <a href="https://github.com/lowkeycode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeycode&size_weight=0.5&count_weight=0.5&them=holi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeycode&size_weight=0.5&count_weight=0.5&theme=holi" />
 </a>
 
 
