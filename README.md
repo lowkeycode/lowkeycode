@@ -15,7 +15,7 @@
 **Twitter** [@lowkeycoding](https://twitter.com/lowkeycoding)<br/>
 
 <a href="https://github.com/lowkeycode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lowkeycode&hide=stars&show_icons=true&theme=holi&show_icons=true&rank_icon=github&custom_title=Cam Remesz" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lowkeycode&hide=stars&show_icons=true&theme=holi&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/lowkeycode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeycode&size_weight=0.5&count_weight=0.5" />
