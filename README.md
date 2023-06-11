@@ -6,6 +6,7 @@
 <div align="center">
    <img src="https://bigheads.io/svg?accessory=none&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=serious&eyes=normal&faceMask=false&faceMaskColor=green&facialHair=mediumBeard&graphic=none&hair=short&hairColor=brown&hat=beanie&hatColor=black&lashes=false&lipColor=red&mask=true&mouth=sad&skinTone=light" alt="Big Head" height="150px" width="150px"/>
 </div>
+<br/>
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=angular,ts" />
