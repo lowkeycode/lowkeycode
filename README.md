@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=angular,ts" />
+   <img src="https://skillicons.dev/icons?i=angular,ts,react" />
 </p>
 
 **Junior Front-End Developer** at [ZIRO](https://github.com/Stack8)<br/>
