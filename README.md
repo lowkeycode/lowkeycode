@@ -13,7 +13,7 @@ Hi...
 
 **Junior Front-End Developer** at [ZIRO](https://github.com/Stack8)<br/>
 **Volunteer** at [TorontoJS](https://github.com/torontojs/torontojs.com)<br/>
-**Toolkit:**  Angular | TypeScript | JavaScript | RxJS | NgRx | SASS | Firebase | REST APIs | Git | Github Actions | Cypress | React...and more<br/>
+**Toolkit:**  Angular | TypeScript | JavaScript | React | Redux | Firebase | CSS <br/>
 **Personal Site** [www.cameronremesz.com](https://www.cameronremesz.com/)<br/>
 **LinkedIn** [Connect with me](https://www.linkedin.com/in/cameron-remesz/)<br/>
 **Twitter** [@lowkeycoding](https://twitter.com/lowkeycoding)<br/>
