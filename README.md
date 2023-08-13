@@ -17,10 +17,3 @@ Hi...
 **Personal Site** [www.cameronremesz.com](https://www.cameronremesz.com/)<br/>
 **LinkedIn** [Connect with me](https://www.linkedin.com/in/cameron-remesz/)<br/>
 **Twitter** [@lowkeycoding](https://twitter.com/lowkeycoding)<br/>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lowkeycode&hide=stars,contribs&show_icons=true&theme=holi&show_icons=true&rank_icon=github&hide_rank=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkeycode&size_weight=0.5&count_weight=0.5&theme=holi" />
-</p>
-
-
