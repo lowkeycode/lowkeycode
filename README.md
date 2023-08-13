@@ -15,5 +15,5 @@ Hi...
 **Volunteer** at [TorontoJS](https://github.com/torontojs/torontojs.com)<br/>
 **Toolkit:**  Angular | TypeScript | JavaScript | React | Redux | Firebase | CSS <br/>
 **Personal Site** [www.cameronremesz.com](https://www.cameronremesz.com/)<br/>
-**LinkedIn** [Connect with me](https://www.linkedin.com/in/cameron-remesz/)<br/>
+**LinkedIn** [Here](https://www.linkedin.com/in/cameron-remesz/)<br/>
 **Twitter** [@lowkeycoding](https://twitter.com/lowkeycoding)<br/>
