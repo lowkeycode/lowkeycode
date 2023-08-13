@@ -11,7 +11,7 @@ Hi...
    <img src="https://skillicons.dev/icons?i=angular,js,ts,react" />
 </p>
 
-**Junior Front-End Developer** at [ZIRO](https://github.com/Stack8)<br/>
+**Front-End Developer** at [ZIRO](https://github.com/Stack8)<br/>
 **Volunteer** at [TorontoJS](https://github.com/torontojs/torontojs.com)<br/>
 **Toolkit:**  Angular | TypeScript | JavaScript | React | Redux | Firebase | CSS <br/>
 **Personal Site** [www.cameronremesz.com](https://www.cameronremesz.com/)<br/>
