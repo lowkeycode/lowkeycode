@@ -3,7 +3,7 @@ Hi...
 <h3 align="center">I'm a Front-End Developer with a keen eye for UI/UX design</h3>
 
 <div align="center">
-   <img src="https://github.com/lowkeycode/lowkeycode/assets/59005164/612034d9-15d4-4572-af61-0b431e474638" width="250px" height="250px"/>
+   <img src="https://github.com/lowkeycode/lowkeycode/assets/59005164/c92624f6-eb31-4a1c-843e-c2ffa238d309" width="250px" height="250px"/>
 </div>
 <br/>
 
