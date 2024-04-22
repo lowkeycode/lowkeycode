@@ -8,6 +8,5 @@
 **Volunteer** at [TorontoJS](https://github.com/torontojs/torontojs.com)<br/>
 **I use:**  Angular | JavaScript | TypeScript | React <br/>
 ****
-**Personal Site** [www.cameronremesz.com](https://www.cameronremesz.com/)<br/>
+**Portfolio** [www.cameronremesz.com](https://www.cameronremesz.com/)<br/>
 **LinkedIn** [Cameron Remesz](https://www.linkedin.com/in/cameron-remesz/)<br/>
-**Twitter** [@lowkeycoding](https://twitter.com/lowkeycoding)<br/>
